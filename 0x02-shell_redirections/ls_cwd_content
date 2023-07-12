@@ -1,0 +1,11 @@
+total 36
+4 -rwxr--r-- 1 root root 32 Jul 11 21:08 0-hello_world
+4 -rwxr--r-- 1 root root 27 Jul 11 21:11 1-confused_smiley
+4 -rwxr--r-- 1 root root 28 Jul 11 21:16 2-hellofile
+4 -rwxr--r-- 1 root root 39 Jul 11 21:21 3-twofiles
+4 -rwxr--r-- 1 root root 29 Jul 11 21:25 4-lastlines
+4 -rwxr--r-- 1 root root 29 Jul 11 22:02 5-firstlines
+4 -rwxr--r-- 1 root root 72 Jul 11 22:07 7-file
+4 -rwxr--r-- 1 root root 36 Jul 11 22:11 8-cwd_state
+0 -rw-r--r-- 1 root root  0 Jul 11 22:12 ls_cwd_content
+4 -rw-r--r-- 1 root root 24 Jul 11 20:52 README.md
